@@ -75,6 +75,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h3>Registration</h2>
+Registration is available through <a href="https://events.miami.edu/event/software-carpentry-scientific-computing-workshop-0621-24#">University of Miami Events</a>.
+
 
 <h2 id="general">General Information</h2>
 
